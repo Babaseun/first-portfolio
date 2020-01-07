@@ -2,6 +2,9 @@
  margin: 0;
  padding: 0;
 }
+html {
+ scroll-behavior: smooth;
+}
 .myname {
  border-bottom: 10px solid lawngreen;
  margin-left: 20px;
@@ -169,7 +172,7 @@ a {
 
 .contact-form {
  background: honeydew;
- width: 50vw;
+ width: 60vw;
  padding: 40px;
  margin-top: 20px;
  margin-bottom: 20px;
